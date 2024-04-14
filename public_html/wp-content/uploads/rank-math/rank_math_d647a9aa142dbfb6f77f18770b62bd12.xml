@@ -2,15 +2,11 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://bestblogs.tech/</loc>
-		<lastmod>2024-01-17T16:12:12+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://bestblogs.tech/samsung-galaxy-s24-leaked-promo-video/</loc>
-		<lastmod>2024-01-17T16:12:12+00:00</lastmod>
+		<lastmod>2024-02-26T06:37:19+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://bestblogs.tech/chromes-new-incognito-mode-alert/</loc>
-		<lastmod>2024-01-17T15:35:28+00:00</lastmod>
+		<lastmod>2024-02-26T06:37:19+00:00</lastmod>
 		<image:image>
 			<image:loc>https://bestblogs.tech/wp-content/uploads/images/incognito-mode-image-gGI.jpeg</image:loc>
 		</image:image>
@@ -23,6 +19,10 @@
 		<image:image>
 			<image:loc>https://bestblogs.tech/wp-content/uploads/images/chrome-incognito-mode-vwY.jpeg</image:loc>
 		</image:image>
+	</url>
+	<url>
+		<loc>https://bestblogs.tech/samsung-galaxy-s24-leaked-promo-video/</loc>
+		<lastmod>2024-02-25T11:57:12+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://bestblogs.tech/unveiling-geoengineering-a-solution-for-climate-intervention/</loc>
